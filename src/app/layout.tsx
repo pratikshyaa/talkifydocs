@@ -23,7 +23,7 @@ export default function RootLayout({
             'min-h-screen font-sans antialiased grainy',
             inter.className
           )}>
-          <Navbar />
+          <Navbar></Navbar> 
           {children}
         </body>
 \    </html>

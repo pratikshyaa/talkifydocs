@@ -14,7 +14,7 @@ export default function Home() {
           </p>
         </div>
         <h1 className='max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl'>
-            Elevate your {' '}
+            Analyse your {' '}
           <span className='text-green-600'>documents</span>{' '}
           with real-time chat
         </h1>
